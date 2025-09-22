@@ -249,11 +249,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: 0.000000006657127, y: -0.00000006869945, z: 0.000000016071725, w: 1}
+  m_LocalPosition: {x: -0.4862797, y: 1.7019458, z: -10.000002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 955853866}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
@@ -353,8 +354,9 @@ GameObject:
   - component: {fileID: 955853864}
   - component: {fileID: 955853863}
   - component: {fileID: 955853867}
+  - component: {fileID: 955853868}
   m_Layer: 0
-  m_Name: Meow-Knight_Idle_0
+  m_Name: Meow-Knight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -421,17 +423,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.00006055832, y: 0.06566197}
+  m_Offset: {x: -0.00820449, y: 0.07470071}
   m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1.5}
+    border: {x: 0.1875, y: 0, z: 0.1875, w: 0}
+    pivot: {x: 0.5209172, y: 0.3734331}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 1, y: 1.3125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6387371, y: 0.93705404}
+  m_Size: {x: 0.6224492, y: 0.85459876}
   m_EdgeRadius: 0
 --- !u!212 &955853865
 SpriteRenderer:
@@ -496,12 +498,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 955853862}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.624, y: 1.443, z: 0}
+  m_LocalRotation: {x: -0.000000006657127, y: 0.00000006869945, z: -0.000000016071725, w: 1}
+  m_LocalPosition: {x: -0.39171895, y: -0.17494568, z: 10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 519420032}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &955853867
 Animator:
@@ -525,6 +527,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &955853868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955853862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194f52b6d6e9154428ad6018bf950b12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocity: 5
+  animator: {fileID: 955853867}
 --- !u!1 &1362884985
 GameObject:
   m_ObjectHideFlags: 0
@@ -607,7 +623,7 @@ Transform:
   m_GameObject: {fileID: 1362884985}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.6996, y: 0.337, z: 0}
+  m_LocalPosition: {x: -0.909, y: 0.27, z: 0}
   m_LocalScale: {x: 8.459274, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -665,5 +681,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
-  - {fileID: 955853866}
   - {fileID: 1362884988}
