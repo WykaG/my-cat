@@ -31,7 +31,7 @@ public class Chest : MonoBehaviour
     {
         if (isNearChest && playerInventory != null && playerInventory.hasKey)
         {
-            animator.SetBool("chestOpen", true);
+            animator.SetBool("IsOpen", true);
         }
     }
     // Detect player enter the chest area

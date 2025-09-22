@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
     {
         if (IsGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0); // Reinicia velocidad vertical
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
             rb.AddForce(Vector2.up * JumpForce, ForceMode2D.Impulse);
             IsJumping = true;
             IsGrounded = false;
@@ -54,7 +54,6 @@ public class PlayerController : MonoBehaviour
         bool wasGrounded = IsGrounded;
         IsGrounded = hit.collider != null;
 
-        // Solo considerar que dej� de saltar si estaba en el aire y toc� el suelo
         if (!wasGrounded && IsGrounded)
             IsJumping = false;
     }
@@ -63,14 +62,14 @@ public class PlayerController : MonoBehaviour
     {
         if (dodge != null && dodge.IsDodging) return;
 
-        // Movimiento horizontal
+        // Movement horizontal
         float horizontal = RunInputAction.action.ReadValue<float>();
         rb.linearVelocity = new Vector2(horizontal * RunSpeed, rb.linearVelocity.y);
 
         if (horizontal != 0)
             lastRunDirection = new Vector2(horizontal, 0);
 
-        // Flip de sprite
+        // Flip sprite
         if (horizontal > 0.01f) sr.flipX = false;
         else if (horizontal < -0.01f) sr.flipX = true;
     }

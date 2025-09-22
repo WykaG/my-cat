@@ -7,7 +7,7 @@ public class PickUpKey : MonoBehaviour
     [SerializeField] private PlayerInventory playerInventory; // Player inventory reference
 
     private bool isNearKey = false;
-    private GameObject keyObject;
+    private GameObject Key;
 
     private void OnEnable()
     {
@@ -27,7 +27,7 @@ public class PickUpKey : MonoBehaviour
         if (isNearKey && playerInventory != null)
         {
             playerInventory.hasKey = true; // Key added to inventory
-            Destroy(keyObject);
+            Destroy(Key);
         }
 
     }
@@ -38,7 +38,7 @@ public class PickUpKey : MonoBehaviour
         if (other.CompareTag("Key"))
         {
             isNearKey = true;
-            keyObject = other.gameObject;
+            Key = other.gameObject;
         }
     }
 
@@ -48,7 +48,7 @@ public class PickUpKey : MonoBehaviour
         if (other.CompareTag("Key"))
         {
             isNearKey = false;
-            keyObject = null;
+            Key = null;
         }
     }
 }
