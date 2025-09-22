@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: 6d6d70798bc9917428b9cab491381fc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7118362333643755696
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_0
+  - first:
+      213: 8199589436160955414
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_1
+  - first:
+      213: -7263140132419363904
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_2
+  - first:
+      213: -4694591085603800979
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_3
+  - first:
+      213: -5109906018922203292
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_4
+  - first:
+      213: -3201819117048339128
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_5
+  - first:
+      213: -1047932079032429577
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_6
+  - first:
+      213: 8291223470443896462
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_7
+  - first:
+      213: -8209256888158903250
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_8
+  - first:
+      213: 3859982962429716265
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_9
+  - first:
+      213: -4643179058479596728
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_10
+  - first:
+      213: -7367544707664696619
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_11
+  - first:
+      213: -4618496640404596883
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_12
+  - first:
+      213: -9218964940996808114
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_13
+  - first:
+      213: 5538078434911321580
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_14
+  - first:
+      213: -4975233351130569379
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_15
+  - first:
+      213: -4351255770569934684
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_16
+  - first:
+      213: 5485641640155714163
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_17
+  - first:
+      213: 7872794747340381119
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_18
+  - first:
+      213: 695756977841916914
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_19
+  - first:
+      213: -7792956731337660944
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_20
+  - first:
+      213: 128884496623023822
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_21
+  - first:
+      213: -5626982342678136051
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_22
+  - first:
+      213: -8964083050623983937
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_23
+  - first:
+      213: 7596675294929271709
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_24
+  - first:
+      213: 5965636273839552276
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_25
+  - first:
+      213: 8877554083525959005
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_26
+  - first:
+      213: -3617016483268899908
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_27
+  - first:
+      213: 4697361187023842016
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_28
+  - first:
+      213: -2431275532468516099
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_29
+  - first:
+      213: 7276692917583971304
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_30
+  - first:
+      213: 6289130568139678161
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_31
+  - first:
+      213: 2960951065466653205
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_32
+  - first:
+      213: 2697448694380123614
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_33
+  - first:
+      213: 8656866236042865503
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_34
+  - first:
+      213: 1369638695381832758
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_35
+  - first:
+      213: -3089067932321526292
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_36
+  - first:
+      213: -1850746130327642615
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_37
+  - first:
+      213: 8757058322312704094
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_38
+  - first:
+      213: 8942184962852596556
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_39
+  - first:
+      213: -8214715484450488428
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_40
+  - first:
+      213: -5023510896247726123
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_41
+  - first:
+      213: 2393093304955519820
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_42
+  - first:
+      213: 5900295060269381428
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_43
+  - first:
+      213: 4361295876164954194
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_44
+  - first:
+      213: 1062617635422833293
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_45
+  - first:
+      213: -1726276077834100103
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_46
+  - first:
+      213: 8625793578033976156
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_47
+  - first:
+      213: -2989385357460834719
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_48
+  - first:
+      213: -7901168419659775073
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_49
+  - first:
+      213: 790849615447307927
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_50
+  - first:
+      213: -4857631962406297436
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_51
+  - first:
+      213: 7304842400889741264
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_52
+  - first:
+      213: 8198174838059396323
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_53
+  - first:
+      213: 8104171783686278155
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_54
+  - first:
+      213: -449648325456157187
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_55
+  - first:
+      213: 8020423565310643441
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_56
+  - first:
+      213: 3488370770403786653
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_57
+  - first:
+      213: 8795248947460271705
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_58
+  - first:
+      213: -2552991474834313296
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_59
+  - first:
+      213: 8359052888392379472
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_60
+  - first:
+      213: 2342541698489380187
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_61
+  - first:
+      213: -655488718079059800
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_62
+  - first:
+      213: 5796734678563106361
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_63
+  - first:
+      213: -6592013258564484747
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_64
+  - first:
+      213: -6256629713047150285
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_65
+  - first:
+      213: 9042762584796755958
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_66
+  - first:
+      213: -4994744906925248076
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_67
+  - first:
+      213: -5654033199178632117
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_68
+  - first:
+      213: -6807800082314735460
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_69
+  - first:
+      213: 2825678045625339145
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_70
+  - first:
+      213: 1738613385935824139
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_71
+  - first:
+      213: -3843284591746692167
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_72
+  - first:
+      213: -132782844759327720
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_73
+  - first:
+      213: -3295000252911520980
+    second: 15_Ready_to_use_Treasure_Chests_Spritesheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 14}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa4a81c2f763d90800000000000000
+      internalID: -7118362333643755696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 14}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6145b6e162bcac170800000000000000
+      internalID: 8199589436160955414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 8, z: 9, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb92450884243b90800000000000000
+      internalID: -7263140132419363904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 13}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bed8d74679deb0800000000000000
+      internalID: -4694591085603800979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 14}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f28a9c87f519b0800000000000000
+      internalID: -5109906018922203292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 8, w: 11}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845674d1a7ad093d0800000000000000
+      internalID: -3201819117048339128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 8, z: 1, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31988835ff471f0800000000000000
+      internalID: -1047932079032429577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 14}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e903d41d7501370800000000000000
+      internalID: 8291223470443896462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 8, z: 9, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e242c5fca5cd21e80800000000000000
+      internalID: -8209256888158903250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 9, w: 13}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927eea2ad0a619530800000000000000
+      internalID: 3859982962429716265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 7, z: 8, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7ac63f3d109fb0800000000000000
+      internalID: -4643179058479596728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.49527106, y: 0.37543544}
+      border: {x: 7, y: 8, z: 7, w: 22}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da26d09f1931c990800000000000000
+      internalID: -7367544707664696619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67595086cdc7efb0800000000000000
+      internalID: -4618496640404596883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 81
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 12, z: 5, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fa17fa38af0080800000000000000
+      internalID: -9218964940996808114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 14, z: 4, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedf32b9ef43bdc40800000000000000
+      internalID: 5538078434911321580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 15, z: 4, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55af2780ab64fab0800000000000000
+      internalID: -4975233351130569379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 14, z: 4, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a87f4c3eeb3d93c0800000000000000
+      internalID: -4351255770569934684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 12, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372929ee10ae02c40800000000000000
+      internalID: 5485641640155714163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 10, z: 4, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd8c06c19c14d60800000000000000
+      internalID: 7872794747340381119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 81
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 7, z: 4, w: 14}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb444af843d7a900800000000000000
+      internalID: 695756977841916914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 81
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 7, z: 4, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f521a6442bd9d390800000000000000
+      internalID: -7792956731337660944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6354e44c3e9c100800000000000000
+      internalID: 128884496623023822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b36435f51f8e1b0800000000000000
+      internalID: -5626982342678136051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe157e85fd299380800000000000000
+      internalID: -8964083050623983937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bbe3c8eefcc6960800000000000000
+      internalID: 7596675294929271709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417346175923ac250800000000000000
+      internalID: 5965636273839552276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d12e65768633b70800000000000000
+      internalID: 8877554083525959005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb46081ca6cdcdc0800000000000000
+      internalID: -3617016483268899908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea6346ac11603140800000000000000
+      internalID: 4697361187023842016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa8d10e8cf524ed0800000000000000
+      internalID: -2431275532468516099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3813ca7a10cf460800000000000000
+      internalID: 7276692917583971304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d124043eea774750800000000000000
+      internalID: 6289130568139678161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 41
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a44766e49671920800000000000000
+      internalID: 2960951065466653205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 41
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55e5cbb434f6520800000000000000
+      internalID: 2697448694380123614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b6863c9fd532870800000000000000
+      internalID: 8656866236042865503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6341dd4032fe10310800000000000000
+      internalID: 1369638695381832758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcce6051d6125d0800000000000000
+      internalID: -3089067932321526292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e546c3334d056e0800000000000000
+      internalID: -1850746130327642615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b3d2b522578970800000000000000
+      internalID: 8757058322312704094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b2ba298d5091c70800000000000000
+      internalID: 8942184962852596556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7d625ac77ffd80800000000000000
+      internalID: -8214715484450488428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 41
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df99df9477e84ab0800000000000000
+      internalID: -5023510896247726123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434d348ea9f53120800000000000000
+      internalID: 2393093304955519820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4373951a81f02e150800000000000000
+      internalID: 5900295060269381428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25820330e7f668c30800000000000000
+      internalID: 4361295876164954194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a81730c1d2fbe00800000000000000
+      internalID: 1062617635422833293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a17cad090b08e0800000000000000
+      internalID: -1726276077834100103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c539f8cce89f4b770800000000000000
+      internalID: 8625793578033976156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fac71bd19386d0800000000000000
+      internalID: -2989385357460834719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9305ab3f29695290800000000000000
+      internalID: -7901168419659775073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796bd7ff889a9fa00800000000000000
+      internalID: 790849615447307927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0603f8779369cb0800000000000000
+      internalID: -4857631962406297436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9e3df573006560800000000000000
+      internalID: 7304842400889741264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec63155494c5c170800000000000000
+      internalID: 8198174838059396323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4d5dac4dc77070800000000000000
+      internalID: 8104171783686278155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df52657fa3782c9f0800000000000000
+      internalID: -449648325456157187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc43861db44e4f60800000000000000
+      internalID: 8020423565310643441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff5c6cbbe296030800000000000000
+      internalID: 3488370770403786653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6f7881500f0a70800000000000000
+      internalID: 8795248947460271705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf66eba7c3f19cd0800000000000000
+      internalID: -2552991474834313296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca4575052510470800000000000000
+      internalID: 8359052888392379472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5deff17341628020800000000000000
+      internalID: 2342541698489380187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Ready_to_use_Treasure_Chests_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a81f9cdb7c37e6f0800000000000000
+      internalID: -655488718079059800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34f55e0a444136246b8e5154f55859d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      15_Ready_to_use_Treasure_Chests_Spritesheet_0: -7118362333643755696
+      15_Ready_to_use_Treasure_Chests_Spritesheet_1: 8199589436160955414
+      15_Ready_to_use_Treasure_Chests_Spritesheet_10: -4643179058479596728
+      15_Ready_to_use_Treasure_Chests_Spritesheet_11: -7367544707664696619
+      15_Ready_to_use_Treasure_Chests_Spritesheet_12: -4618496640404596883
+      15_Ready_to_use_Treasure_Chests_Spritesheet_13: -9218964940996808114
+      15_Ready_to_use_Treasure_Chests_Spritesheet_14: 5538078434911321580
+      15_Ready_to_use_Treasure_Chests_Spritesheet_15: -4975233351130569379
+      15_Ready_to_use_Treasure_Chests_Spritesheet_16: -4351255770569934684
+      15_Ready_to_use_Treasure_Chests_Spritesheet_17: 5485641640155714163
+      15_Ready_to_use_Treasure_Chests_Spritesheet_18: 7872794747340381119
+      15_Ready_to_use_Treasure_Chests_Spritesheet_19: 695756977841916914
+      15_Ready_to_use_Treasure_Chests_Spritesheet_2: -7263140132419363904
+      15_Ready_to_use_Treasure_Chests_Spritesheet_20: -7792956731337660944
+      15_Ready_to_use_Treasure_Chests_Spritesheet_21: 128884496623023822
+      15_Ready_to_use_Treasure_Chests_Spritesheet_22: -5626982342678136051
+      15_Ready_to_use_Treasure_Chests_Spritesheet_23: -8964083050623983937
+      15_Ready_to_use_Treasure_Chests_Spritesheet_24: 7596675294929271709
+      15_Ready_to_use_Treasure_Chests_Spritesheet_25: 5965636273839552276
+      15_Ready_to_use_Treasure_Chests_Spritesheet_26: 8877554083525959005
+      15_Ready_to_use_Treasure_Chests_Spritesheet_27: -3617016483268899908
+      15_Ready_to_use_Treasure_Chests_Spritesheet_28: 4697361187023842016
+      15_Ready_to_use_Treasure_Chests_Spritesheet_29: -2431275532468516099
+      15_Ready_to_use_Treasure_Chests_Spritesheet_3: -4694591085603800979
+      15_Ready_to_use_Treasure_Chests_Spritesheet_30: 7276692917583971304
+      15_Ready_to_use_Treasure_Chests_Spritesheet_31: 6289130568139678161
+      15_Ready_to_use_Treasure_Chests_Spritesheet_32: 2960951065466653205
+      15_Ready_to_use_Treasure_Chests_Spritesheet_33: 2697448694380123614
+      15_Ready_to_use_Treasure_Chests_Spritesheet_34: 8656866236042865503
+      15_Ready_to_use_Treasure_Chests_Spritesheet_35: 1369638695381832758
+      15_Ready_to_use_Treasure_Chests_Spritesheet_36: -3089067932321526292
+      15_Ready_to_use_Treasure_Chests_Spritesheet_37: -1850746130327642615
+      15_Ready_to_use_Treasure_Chests_Spritesheet_38: 8757058322312704094
+      15_Ready_to_use_Treasure_Chests_Spritesheet_39: 8942184962852596556
+      15_Ready_to_use_Treasure_Chests_Spritesheet_4: -5109906018922203292
+      15_Ready_to_use_Treasure_Chests_Spritesheet_40: -8214715484450488428
+      15_Ready_to_use_Treasure_Chests_Spritesheet_41: -5023510896247726123
+      15_Ready_to_use_Treasure_Chests_Spritesheet_42: 2393093304955519820
+      15_Ready_to_use_Treasure_Chests_Spritesheet_43: 5900295060269381428
+      15_Ready_to_use_Treasure_Chests_Spritesheet_44: 4361295876164954194
+      15_Ready_to_use_Treasure_Chests_Spritesheet_45: 1062617635422833293
+      15_Ready_to_use_Treasure_Chests_Spritesheet_46: -1726276077834100103
+      15_Ready_to_use_Treasure_Chests_Spritesheet_47: 8625793578033976156
+      15_Ready_to_use_Treasure_Chests_Spritesheet_48: -2989385357460834719
+      15_Ready_to_use_Treasure_Chests_Spritesheet_49: -7901168419659775073
+      15_Ready_to_use_Treasure_Chests_Spritesheet_5: -3201819117048339128
+      15_Ready_to_use_Treasure_Chests_Spritesheet_50: 790849615447307927
+      15_Ready_to_use_Treasure_Chests_Spritesheet_51: -4857631962406297436
+      15_Ready_to_use_Treasure_Chests_Spritesheet_52: 7304842400889741264
+      15_Ready_to_use_Treasure_Chests_Spritesheet_53: 8198174838059396323
+      15_Ready_to_use_Treasure_Chests_Spritesheet_54: 8104171783686278155
+      15_Ready_to_use_Treasure_Chests_Spritesheet_55: -449648325456157187
+      15_Ready_to_use_Treasure_Chests_Spritesheet_56: 8020423565310643441
+      15_Ready_to_use_Treasure_Chests_Spritesheet_57: 3488370770403786653
+      15_Ready_to_use_Treasure_Chests_Spritesheet_58: 8795248947460271705
+      15_Ready_to_use_Treasure_Chests_Spritesheet_59: -2552991474834313296
+      15_Ready_to_use_Treasure_Chests_Spritesheet_6: -1047932079032429577
+      15_Ready_to_use_Treasure_Chests_Spritesheet_60: 8359052888392379472
+      15_Ready_to_use_Treasure_Chests_Spritesheet_61: 2342541698489380187
+      15_Ready_to_use_Treasure_Chests_Spritesheet_62: -655488718079059800
+      15_Ready_to_use_Treasure_Chests_Spritesheet_7: 8291223470443896462
+      15_Ready_to_use_Treasure_Chests_Spritesheet_8: -8209256888158903250
+      15_Ready_to_use_Treasure_Chests_Spritesheet_9: 3859982962429716265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
