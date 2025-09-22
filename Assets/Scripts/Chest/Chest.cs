@@ -26,16 +26,21 @@ public class Chest : MonoBehaviour
         OpenChest.action.Disable();
     }
 
-    //Input open chest
+    // Input open chest
     private void HandleOpenChestInput(InputAction.CallbackContext context)
     {
         if (isNearChest && playerInventory != null && playerInventory.hasKey)
         {
-            animator.SetBool("IsOpen", true);
+            Debug.Log("Opening chest..."); // confirm 
+            animator.SetBool("IsOpen", true);// Change parameter
+        }
+        else if (isNearChest && playerInventory != null && !playerInventory.hasKey)
+        {
+            Debug.Log("You dont have the key");
         }
     }
-    // Detect player enter the chest area
 
+    // Detect player enter the chest area
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
